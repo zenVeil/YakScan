@@ -1,5 +1,12 @@
 # YakScan
-
+<div align="center">
+    <img src="./assets/logo.png" alt="257ab8ce9bf67ddf92c2465b3f1b2578" width="300px" />
+    <br>
+    <img src="https://img.shields.io/badge/API扫描-blue">
+    <img src="https://img.shields.io/badge/language-yakit-blue">
+    <img src="https://img.shields.io/github/forks/zenVeil/YakScan">
+    <img src="https://img.shields.io/github/stars/zenVeil/YakScan">
+</div>
 ## 介绍
 **YakScan** 一款基于 Yak 语言开发的智能扫描工具，用于快速发现暴露的 Swagger 文档、OpenAPI 端点和其他 API 管理接口，帮助开发与安全人员识别潜在的信息泄露风险。
 
